@@ -1,0 +1,13 @@
+# Soil Temperature Calculations
+
+Understanding soil temperature distribution and how it behaves throughout the year is important for building earth bermed 
+and/or earth covered houses.
+
+Few basic facts:
+
+ * soil temperature in depth is equal to annual mean air temperature in the area (unless geothermal effects such as hot 
+   springs affect it).
+ * temperature amplitudes decrease with depth. In the very center of Europe for example, the equilibrium where the 
+   temperature is constant, is roughly in 19 meters (62 feet).
+ * soil is NOT a good insulator, however it is a great heat acumulator. In my area, the temperature in 1 meter depth is 
+   about 1 month behind the air temperature. In mathematical therms it means that sinus curve peaks shift along time axis.
